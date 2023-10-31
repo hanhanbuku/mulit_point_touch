@@ -1,6 +1,6 @@
 {
   "name": "@itachi3/mulit-point-touch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "h5多点位触控识别",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
