@@ -16,6 +16,10 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
+  "bugs": {
+    "url": "https://github.com/hanhanbuku/mulit_point_touch/issues"
+  },
+  "homepage": "https://github.com/hanhanbuku/mulit_point_touch/blob/master/README.md",
   "files": [
     "lib/**/*"
   ],
