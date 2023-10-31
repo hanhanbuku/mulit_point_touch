@@ -25,6 +25,7 @@ jobs:
         cache: 'npm'
     - name: Publish to npm
       run: |
+        npm install
         npm run build
         npm publish
       env:
