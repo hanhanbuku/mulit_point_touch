@@ -14,6 +14,7 @@
     "release-patch": "standard-version --release-as patch"
   },
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "bugs": {
